@@ -50,6 +50,5 @@ Comparative accuracy evaluation between the baseline (Standard, $r=16$) and the 
 ## Repository Structure
 * `Seeing_Signals_english.ipynb`: Complete Google Colab Notebook (PyTorch & HuggingFace Transformers/PEFT implementation).
 * `Seeing_Signals_Report_EN.pdf`: Technical Report in English.
-## Repository Structure
 * `Seeing_Signals.ipynb`: Complete Google Colab Notebook (PyTorch & HuggingFace Transformers/PEFT implementation).
 * `Seeing_Signals_Report_EN-v2.pdf`: Technical Report in English.
